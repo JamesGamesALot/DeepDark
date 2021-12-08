@@ -1,0 +1,42 @@
+{
+  "group": "armor_from_the_dark",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_torch"
+    },
+    "1": {
+      "item": "minecraft:black_concrete"
+    },
+    "2": {
+      "item": "minecraft:soul_torch"
+    },
+    "3": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "4": {
+      "item": "minecraft:soul_lantern"
+    },
+    "5": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "6": {
+      "item": "minecraft:soul_torch"
+    },
+    "7": {
+      "item": "minecraft:black_concrete"
+    },
+    "8": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "armor_from_the_dark:deepdarkarmor_helmet",
+    "count": 1
+  }
+}

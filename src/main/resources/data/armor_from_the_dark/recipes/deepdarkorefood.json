@@ -1,0 +1,12 @@
+{
+  "group": "armor_from_the_dark",
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "cookingtime": 1,
+  "ingredient": {
+    "item": "armor_from_the_dark:deepdarkessence"
+  },
+  "result": {
+    "item": "armor_from_the_dark:deepdarkfood"
+  }
+}

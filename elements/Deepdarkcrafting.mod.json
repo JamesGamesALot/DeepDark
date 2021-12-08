@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 180,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": -71,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Deep Dark Crafting Table",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Deep Dark Crafting Table",
+          "x": 150,
+          "y": 179
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Button",
+          "width": 55,
+          "height": 20,
+          "name": "Button",
+          "x": 186,
+          "y": 152
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "armor_from_the_dark",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chipped_anvil"
+    },
+    "1": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "2": {
+      "item": "minecraft:damaged_anvil"
+    },
+    "3": {
+      "item": "minecraft:soul_torch"
+    },
+    "4": {
+      "item": "armor_from_the_dark:deepdarkarmor_helmet"
+    },
+    "5": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "armor_from_the_dark:deepdarkarmor_chestplate",
+    "count": 1
+  }
+}

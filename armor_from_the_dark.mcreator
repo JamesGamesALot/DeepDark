@@ -1,0 +1,276 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Deepdarkarmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DeepDark",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deep_dark"
+    },
+    {
+      "name": "Deepdarkhelmet",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkhelmet"
+    },
+    {
+      "name": "DarkChestplate",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_chestplate"
+    },
+    {
+      "name": "DarkBoots",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_boots"
+    },
+    {
+      "name": "DarkLeggings",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_leggings"
+    },
+    {
+      "name": "Deepdarkore",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkore"
+    },
+    {
+      "name": "Deepdarkessence",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkessence"
+    },
+    {
+      "name": "Deepdarkcrafting",
+      "type": "gui",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkcrafting"
+    },
+    {
+      "name": "DeepdarkcraftingtableOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkcraftingtable_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deepdarkcraftingtable",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkcraftingtable"
+    },
+    {
+      "name": "Deepdarkfuel",
+      "type": "fuel",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkfuel"
+    },
+    {
+      "name": "Deepdarkfood",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkfood"
+    },
+    {
+      "name": "Deepdarkorefood",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkorefood"
+    },
+    {
+      "name": "Deepdarkgoo",
+      "type": "fluid",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deepdarkgoo",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "DeepDarkSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deep_dark_sword"
+    },
+    {
+      "name": "DeepDarkSwordToolInHandTick",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deep_dark_sword_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "megomusic",
+      "files": [
+        "yt1s.com-megalovania-but-it-never-starts-perfect-loop"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "retro",
+      "files": [
+        "mixkit-retro-game-notification-212"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabdeep_dark": "Deep Dark",
+      "item.armor_from_the_dark.deepdarkarmor_boots": "Deepdarkarmor Boots",
+      "item.armor_from_the_dark.deepdarkessence": "Deep Dark Ore",
+      "fluid.armor_from_the_dark.deepdarkgoo": "Deepdarkgoo",
+      "subtitles.megomusic": "",
+      "subtitles.retro": "",
+      "item.armor_from_the_dark.deepdarkarmor_leggings": "Deepdarkarmor Leggings",
+      "block.armor_from_the_dark.deepdarkgoo": "Deepdarkgoo",
+      "item.armor_from_the_dark.deepdarkarmor_helmet": "Deepdarkarmor Helmet",
+      "block.armor_from_the_dark.deepdarkore": "Deepdarkore",
+      "item.armor_from_the_dark.deepdarkarmor_chestplate": "Deepdarkarmor Body",
+      "block.armor_from_the_dark.deepdarkcraftingtable": "Deepdarkcraftingtable",
+      "item.armor_from_the_dark.deepdarkfood": "Deepdarkfood",
+      "item.armor_from_the_dark.deepdarkgoo_bucket": "Deepdarkgoo Bucket",
+      "item.armor_from_the_dark.deep_dark_sword": "Deep Dark Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "armor_from_the_dark",
+    "modName": "Armor from the dark",
+    "version": "1.0.0",
+    "author": "james, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.armorfromthedark",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

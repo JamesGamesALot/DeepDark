@@ -1,0 +1,20 @@
+{
+  "megomusic": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "armor_from_the_dark:yt1s.com-megalovania-but-it-never-starts-perfect-loop",
+        "stream": false
+      }
+    ]
+  },
+  "retro": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "armor_from_the_dark:mixkit-retro-game-notification-212",
+        "stream": false
+      }
+    ]
+  }
+}

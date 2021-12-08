@@ -1,0 +1,26 @@
+{
+  "group": "armor_from_the_dark",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "2": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "3": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "5": {
+      "item": "minecraft:polished_blackstone"
+    }
+  },
+  "result": {
+    "item": "armor_from_the_dark:deepdarkarmor_boots",
+    "count": 1
+  }
+}

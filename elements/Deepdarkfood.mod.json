@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "deepdarkore",
+    "customModelName": "Normal",
+    "name": "Deepdarkfood",
+    "rarity": "EPIC",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DeepDark"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 1.5,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "CUSTOM:Deepdarkessence"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "spear",
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "armor_from_the_dark:blocks/deepdarkore",
+    "up": "armor_from_the_dark:blocks/deepdarkore",
+    "north": "armor_from_the_dark:blocks/deepdarkore",
+    "east": "armor_from_the_dark:blocks/deepdarkore",
+    "south": "armor_from_the_dark:blocks/deepdarkore",
+    "west": "armor_from_the_dark:blocks/deepdarkore",
+    "particle": "armor_from_the_dark:blocks/deepdarkore"
+  }
+}

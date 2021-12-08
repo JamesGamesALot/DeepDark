@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Deep Dark",
+    "icon": {
+      "value": "Blocks.END_GATEWAY"
+    },
+    "showSearch": true
+  }
+}
